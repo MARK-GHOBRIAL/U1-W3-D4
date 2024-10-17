@@ -1,0 +1,11 @@
+header h1 {
+    text-align: center;
+    color: aliceblue;
+}
+body {
+    background-color: rgb(230, 144, 144);
+}
+#click {
+    margin-left: 25em;
+    
+}
